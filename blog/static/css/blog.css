@@ -1,5 +1,5 @@
 .page-header {
-    background-color: #6B186A;
+    background-color: #124775;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
@@ -12,10 +12,11 @@
 
 .content {
     margin-left: 40px;
+    text-align: justify;
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Lobster', cursive;
+    font-family: 'Abril Fatface', cursive;
     text-decoration: underline;
 }
 
@@ -45,4 +46,9 @@ h1, h2, h3, h4 {
 
 .post h1 a, .post h1 a:visited {
     color: #000000;
+}
+
+#nameauthor{
+    font-size: 20px;
+    text-align: right;
 }
